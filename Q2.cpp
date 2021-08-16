@@ -1,4 +1,4 @@
-# Q2.) Find a factorial of a given number. 
+//Find a factorial of a given number. 
 
 #include <iostream>
 using namespace std;
