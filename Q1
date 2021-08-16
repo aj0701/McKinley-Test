@@ -1,0 +1,10 @@
+function main(k) 
+        { 
+             
+            if (k <= n) { 
+                document.writeln(k);
+                k++;
+                main(k); //recursive function
+            } 
+            return 0; 
+        } 
